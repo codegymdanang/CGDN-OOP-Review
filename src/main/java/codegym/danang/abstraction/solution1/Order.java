@@ -1,5 +1,8 @@
 package codegym.danang.abstraction.solution1;
 
+import codegym.danang.abstraction.data.Employee;
+import codegym.danang.abstraction.data.Product;
+
 import java.math.BigDecimal;
 
 
