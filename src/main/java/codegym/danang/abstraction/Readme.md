@@ -3,6 +3,9 @@ Implementations<br>
   If we simply created a concrete class for Order, it would quickly become convoluted for a couple reasons:<br>
   Some of our class fields don't make sense for certain orders (an online order doesn't need a store ID or store rep)<br>
   The validate() and process() methods need to check the order type before executing any business logic. <br>
+  Problems<br>
+  + if the business introduced a new order type, we would need to modify this class.  This is a violation of the Open/Closed    principle of SOLID.<br>
+
   
 + Solution 2 - Single Base Abstract class with Subclasses for Each Type<br>
    A cleaner solution is to implement a base abstract class called Order and subclass the different types.  <br>
