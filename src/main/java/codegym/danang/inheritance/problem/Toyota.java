@@ -1,4 +1,4 @@
-package codegym.danang.inheritance.solution1;
+package codegym.danang.inheritance.problem;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package codegym.danang.interfacing.solution1;
+package codegym.danang.interfacing.problem;
 
 public class MasterCard {
 

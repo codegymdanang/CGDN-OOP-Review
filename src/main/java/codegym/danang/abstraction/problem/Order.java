@@ -1,4 +1,4 @@
-package codegym.danang.abstraction.solution1;
+package codegym.danang.abstraction.problem;
 
 import codegym.danang.abstraction.data.Employee;
 import codegym.danang.abstraction.data.Product;
