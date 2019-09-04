@@ -2,7 +2,7 @@ package codegym.danang.inheritance.solution1;
 
 import java.util.Date;
 
-public class Toyota {
+public class Lamborghini {
 
     private String name;
 
@@ -26,7 +26,9 @@ public class Toyota {
 
 
 
-    public Toyota() {
+
+
+    public Lamborghini() {
 
     }
 
