@@ -4,45 +4,45 @@ import java.util.Date;
 
 public class Hyundai {
 
-    private String name;
+    public String name;
 
-    private Date   produceDate;
+    public Date   produceDate;
 
-    private String model;
+    public String model;
 
-    private Date expireDate;
+    public Date expireDate;
 
-    private String engine;
+    public String engine;
 
-    private String color;
+    public String color;
 
-    private boolean camera;
+    public boolean camera;
 
-    private String brake;
+    public String brake;
 
-    private int seat ;
+    public int seat ;
 
-    private String brand;
+    public String brand;
 
-    private String name2;
+    public String name2;
 
-    private Date   produceDate2;
+    public Date   produceDate2;
 
-    private String model2;
+    public String model2;
 
-    private Date expireDate2;
+    public Date expireDate2;
 
-    private String engine2;
+    public String engine2;
 
-    private String color2;
+    public String color2;
 
-    private boolean camera2;
+    public boolean camera2;
 
-    private String brake2;
+    public String brake2;
 
-    private int seat2 ;
+    public int seat2 ;
 
-    private String brand2;
+    public String brand2;
 
 
 
