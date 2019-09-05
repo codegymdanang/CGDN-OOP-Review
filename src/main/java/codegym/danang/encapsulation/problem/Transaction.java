@@ -5,9 +5,9 @@ public class Transaction {
 
     public double transactionFree = 0.01;
 
-    public double getMoneyInMonth(int NumOfTransaction) {
+    public double getMoneyInMonth(int moneyTransfer) {
 
-        return NumOfTransaction * transactionFree;
+        return moneyTransfer * transactionFree;
 
     }
 }

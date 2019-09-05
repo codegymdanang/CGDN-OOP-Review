@@ -6,9 +6,10 @@ public class TransactionHistory {
 
     public static void saveTransaction() {
 
+        int moneyTransfer = 1000000;
         Transaction transaction = new Transaction();
        // transaction.transactionFree = 0.03;
-        double money = transaction.getMoneyInMonth(1000);
+        double money = transaction.getMoneyInMonth(moneyTransfer);
         System.out.println(money);
     }
 
