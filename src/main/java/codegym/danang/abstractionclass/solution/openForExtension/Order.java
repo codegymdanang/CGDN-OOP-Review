@@ -1,4 +1,4 @@
-package codegym.danang.abstraction.solution.removeInrelevantInformation;
+package codegym.danang.abstractionclass.solution.openForExtension;
 
 import java.math.BigDecimal;
 import java.util.Date;

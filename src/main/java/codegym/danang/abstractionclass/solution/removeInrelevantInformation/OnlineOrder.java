@@ -1,4 +1,4 @@
-package codegym.danang.abstraction.solution.openForExtension;
+package codegym.danang.abstractionclass.solution.removeInrelevantInformation;
 
 public class OnlineOrder extends Order {
 
@@ -8,12 +8,10 @@ public class OnlineOrder extends Order {
     @Override
     public void validate() {
         // only validation for Online type don't need if else.
-        System.out.println("Online Order is validation");
     }
 
     @Override
     public void process() {
         // only process for Online type don't need if else.
-        System.out.println("Online Order is processing ");
     }
 }

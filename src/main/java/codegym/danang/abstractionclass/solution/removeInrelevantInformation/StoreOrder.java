@@ -1,6 +1,6 @@
-package codegym.danang.abstraction.solution.openForExtension;
+package codegym.danang.abstractionclass.solution.removeInrelevantInformation;
 
-import codegym.danang.abstraction.data.Employee;
+import codegym.danang.abstractionclass.data.Employee;
 
 public class StoreOrder extends Order {
 

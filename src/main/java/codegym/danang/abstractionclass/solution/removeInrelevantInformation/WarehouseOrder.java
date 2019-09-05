@@ -1,4 +1,4 @@
-package codegym.danang.abstraction.solution.openForExtension;
+package codegym.danang.abstractionclass.solution.removeInrelevantInformation;
 
 public class WarehouseOrder extends Order {
 

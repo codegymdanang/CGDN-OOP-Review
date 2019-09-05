@@ -1,7 +1,7 @@
-package codegym.danang.abstraction.problem;
+package codegym.danang.abstractionclass.problem;
 
-import codegym.danang.abstraction.data.Employee;
-import codegym.danang.abstraction.data.Product;
+import codegym.danang.abstractionclass.data.Employee;
+import codegym.danang.abstractionclass.data.Product;
 
 import java.math.BigDecimal;
 

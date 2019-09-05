@@ -1,4 +1,4 @@
-package codegym.danang.abstraction.solution.openForExtension;
+package codegym.danang.abstractionclass.solution.openForExtension;
 
 public class MarketOrder extends Order {
 
