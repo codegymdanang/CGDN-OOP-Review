@@ -1,4 +1,4 @@
-package codegym.danang.interfacing.solution2;
+package codegym.danang.interfacing.solution.polymorphism;
 
 public class MasterCard implements PaymentGateway {
     public void payment() {
