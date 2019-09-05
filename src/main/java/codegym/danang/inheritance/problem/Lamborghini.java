@@ -24,7 +24,25 @@ public class Lamborghini {
 
     private String brand;
 
+    private String name2;
 
+    private Date   produceDate2;
+
+    private String model2;
+
+    private Date expireDate2;
+
+    private String engine2;
+
+    private String color2;
+
+    private boolean camera2;
+
+    private String brake2;
+
+    private int seat2 ;
+
+    private String brand2;
 
 
 
