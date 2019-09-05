@@ -1,19 +1,20 @@
-package codegym.danang.abstraction.solution2;
+package codegym.danang.abstraction.solution.openForExtension;
 
 import codegym.danang.abstraction.data.Employee;
 
 public class StoreOrder extends Order {
 
+    //Store ID is need . We don't need warehouse id
     private long storeId;
     private Employee storeRep;
 
     @Override
     public void validate() {
-        // TODO Auto-generated method stub
+        //  only validation for Store type type don't need if else.
     }
 
     @Override
     public void process() {
-        // TODO Auto-generated method stub
+        // only process for Store type type don't need if else.
     }
 }
